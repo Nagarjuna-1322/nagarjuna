@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  HI I'M NAGARJUNAREDDY MEKALA
 🔭 I'm currently learning python, Html, CSS, LLM, AI gents<br><br>🧑‍🎓 I'm currently looking to collaborate on beginner-freindly python & AI developer interns<br><br>🤝 I'm looking for help with AI & ML<br><br>🙋‍♂️ I can answer questions on the fundamentals of HTML, CSS and Python basics.<br><br>🔎 you can contact me here mmnagarjuna@gmail.com<br><br>🤠 Fun fact i love to explore all the ai tools and love build ai based applications<br><br>
 
 
